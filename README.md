@@ -1,5 +1,5 @@
 # Simple Calculator
-This is a non scientific simple calculator made with the help of HTML , CSS and Vanilla JS.
+This is a non scientific simple calculator made with the help of HTML , CSS and Vanilla Js.
 <br> <br>
 Homepage: 
 <br> <br>
